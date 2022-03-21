@@ -1,0 +1,15 @@
+{
+  "name": "discord-antispam-js",
+  "version": "1.0.3",
+  "description": "This module can detect the spam & you can configure the antispam with the options, enjoy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Frost.wrld",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
